@@ -84,13 +84,11 @@
 </div>
 
 <br />
-<br />
 
 <h2>☎️ Contact</h2>
 <div>
 	<br />
 	<samp>
-  	<h2 align="center">You can reach me by:</h2>
   	<p align="center">
     	<br/>
     	<a href="https://www.linkedin.com/in/maxime-carabina/" target="blank">
